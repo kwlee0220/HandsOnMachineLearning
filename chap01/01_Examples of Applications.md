@@ -1,1 +1,39 @@
+# The Machine Learning Landscape
 
+## Examples of Applications
+- 영상 처리를 통한 생산 라인의 생산품 분류
+  - Image classification 문제
+  - 주로 Convolutional Neural Network (CNN) 활용
+- 뇌 촬영 영상에서의 종양 검출
+  - Semantic segmentation 문제 (pixel 단위 classification)
+  - 주로 CNN 활용
+- 뉴스 기사 자동 분류
+  - 자연 언어 처리 (Natural Language Process: NLP)
+  - 보다 자세하게는 text classification 문제
+  - Recurrent Neural Network (RNN), CNN, 또는 Transformer 활용
+- 게시판에서의 악성 댓글 자동 분류
+  - Text classification 문제
+  - Recurrent Neural Network (RNN), CNN, 또는 Transformer 활용
+- 자동 문서 요약
+  - Text summarization (NLP 분야)
+- Chatbot 또는 개인 도우미
+  - NLP 분야
+  - Natural Language Understanding (NLU), questing answering
+- 여러 성과 지표에 따른 내년 기업 매출 예측
+  - Regression model (Timeseries prediction)
+  - Linear Regression, Polynomial Regression, regression SVM, regression Random Forest
+  - ANN 기반 방법 (RNN, CNN, Transformer)
+- 음성 명령 반응 앱
+  - 음성 인식
+  - RNN, CNN, Transformer 활용
+- 신용카드 사기 탐지
+  - Anomaly detection 문제
+- 구매 특성에 따른 고객 분류를 통한 마케팅 전략 설계
+  - Clustering 문제
+- 복잡하고 고차원 자료를 clear and insightful diagram 작성
+  - Data visualization 문제 (dimensionality reduction)
+- 고객의 이전 구매 정보를 활용한 관심구매 추천
+  - 추천 서비스
+  - ANN 활용
+- 게임을 위한 지능봇 개발
+  - Reinforcement Learning 기반
