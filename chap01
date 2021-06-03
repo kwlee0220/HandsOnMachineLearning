@@ -1,0 +1,16 @@
+# The Machine Learning Landscape
+
+## Examples of Applications
+- 영상 처리를 통한 생산 라인의 생산품 분류
+  - Image classification 문제
+주로 Convolutional Neural Network (CNN) 활용
+뇌 촬영 영상에서의 종양 검출
+Semantic segmentation 문제 (pixel 단위 classification)
+주로 CNN 활용
+뉴스 기사 자동 분류
+자연 언어 처리 (Natural Language Process: NLP)
+보다 자세하게는 text classification 문제
+Recurrent Neural Network (RNN), CNN, 또는 Transformer 활용
+게시판에서의 악성 댓글 자동 분류
+Text classification 문제
+Recurrent Neural Network (RNN), CNN, 또는 Transformer 활용
