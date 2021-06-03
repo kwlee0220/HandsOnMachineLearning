@@ -1,5 +1,3 @@
-# The Machine Learning Landscape
-
 ## Examples of Applications
 - 영상 처리를 통한 생산 라인의 생산품 분류
   - Image classification 문제
